@@ -109,3 +109,4 @@ deploy:
   skip_cleanup: true
   on:
     repo: Saci-de-bani/Test
+    all_branches: true
